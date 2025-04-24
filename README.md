@@ -57,7 +57,7 @@ A continuación, la serie de videos en YouTube donde desarrollo paso a paso este
 
 
 ## ✍️ Canal de YouTube
-[Aprende con JM](youtube.com/@aprendeconJM)
+[Aprende con JM](https://youtube.com/@aprendeconJM)
 
 ---
 
