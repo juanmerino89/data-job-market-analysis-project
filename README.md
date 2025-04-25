@@ -23,8 +23,8 @@ Explorar, analizar y visualizar datos relacionados con el mercado laboral, centr
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/market-jobs-analysis.git
-cd market-jobs-analysis
+git clone https://github.com/juanmerino89/data-job-market-analysis-project.git
+cd data-job-market-analysis-project
 ```
 
 2. Crea un entorno virtual (opcional pero recomendado):
