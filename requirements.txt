@@ -1,0 +1,8 @@
+pandas: 2.2.3
+numpy: 1.26.3
+sqlite3: 3.45.3
+seaborn: 0.13.2
+matplotlib
+warnings
+jobspy-python
+word2number
