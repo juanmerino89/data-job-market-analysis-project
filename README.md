@@ -17,6 +17,38 @@ Explorar, analizar y visualizar datos relacionados con el mercado laboral, centr
 
 ---
 
+
+## ⚙️ Cómo usar este proyecto
+
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/market-jobs-analysis.git
+cd market-jobs-analysis
+```
+
+2. Crea un entorno virtual (opcional pero recomendado):
+
+
+```bash
+python -m venv venv
+source venv/bin/activate   # En Windows: venv\Scripts\activate
+```
+
+3. Instala las dependencias:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Abre los notebooks:
+
+```bash
+jupyter notebook
+```
+
+---
+
 ## 🛠 Tecnologías usadas
 
 Python (Pandas, NumPy, Matplotlib)
@@ -31,26 +63,17 @@ Git + GitHub
 
 ---
 
-## 📈 Resultados destacados
-Análisis comparativo de salarios en distintas ciudades
-
-Identificación de tecnologías emergentes más demandadas
-
-Evolución temporal de la demanda por tipo de empleo
-
----
-
 ## 🎥 Videos del proyecto
 
 A continuación, la serie de videos en YouTube donde desarrollo paso a paso este proyecto de análisis de empleos del mercado:
 
 | Episodio | Título | Enlace |
 |----------|--------|--------|
-| 1 | Extracción de datos con Jobspy | [Ver en YouTube](https://youtube.com/...) |
-| 2 | Limpieza y preprocesamiento de datos | [Ver en YouTube](https://youtube.com/...) |
-| 3 | Análisis profundo del dataset | [Ver en YouTube](https://youtube.com/...) |
-| 4 | Dashboard en Tableau | [Ver en YouTube](https://youtube.com/...) |
-| 5 | PROYECTO COMPLETO | [Ver en YouTube](https://youtube.com/...) |
+| 1 | Extracción de datos con Jobspy | Próximamente... |
+| 2 | Limpieza y preprocesamiento de datos | Próximamente... |
+| 3 | Análisis profundo del dataset | Próximamente... |
+| 4 | Dashboard en Tableau | Próximamente... |
+| 5 | PROYECTO COMPLETO | Próximamente... |
 
 > *Sigue la lista actualizándose a medida que subo nuevos videos. ¡No olvides suscribirte al canal!*
 
