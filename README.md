@@ -69,7 +69,7 @@ A continuación, la serie de videos en YouTube donde desarrollo paso a paso este
 
 | Episodio | Título | Enlace |
 |----------|--------|--------|
-| 1 | Extracción de datos con Jobspy | Próximamente... |
+| 1 | Extracción de datos con Jobspy | [ver en YouTube](https://youtu.be/3NibxuhfgwE?si=9TDZTJXi7sIJanPt) |
 | 2 | Limpieza y preprocesamiento de datos | Próximamente... |
 | 3 | Análisis profundo del dataset | Próximamente... |
 | 4 | Dashboard en Tableau | Próximamente... |
