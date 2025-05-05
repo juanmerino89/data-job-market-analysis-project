@@ -59,8 +59,6 @@ Extracción / Web scraping con Jobspy
 
 Visualización interactiva (Tableau)
 
-Git + GitHub
-
 ---
 
 ## 🎥 Videos del proyecto
