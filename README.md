@@ -71,7 +71,7 @@ A continuación, la serie de videos en YouTube donde desarrollo paso a paso este
 | 2 | Limpieza y preprocesamiento de datos | [ver en YouTube](https://youtu.be/mGZgbg3sK4Q) |
 | 3 | Análisis profundo del dataset | [ver en YouTube](https://youtu.be/E_2tpD84x-I) |
 | 4 | Dashboard en Tableau | [ver en YouTube](https://youtu.be/XTJ4n4nY8BE)|
-| 5 | PROYECTO COMPLETO | Próximamente... |
+| 5 | PROYECTO COMPLETO | [ver en YouTube](https://youtu.be/mKsG_XXFuv8) |
 
 > *Sigue la lista actualizándose a medida que subo nuevos videos. ¡No olvides suscribirte al canal!*
 
