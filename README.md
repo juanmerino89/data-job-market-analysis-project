@@ -1,12 +1,12 @@
-# 🧠 Market Jobs Data Analysis
+# Market Jobs Data Analysis
 
 Este repositorio contiene el proyecto completo de análisis de datos de empleos de mercado, desarrollado y documentado a lo largo de una serie de videos en mi canal de YouTube.
 
-📺 **YouTube playlist del proyecto**: [ver en YouTube](https://www.youtube.com/playlist?list=PLGQSYoAPO2ZFi2VI5RFmOJpDnTU3gPVx_)
+**YouTube playlist del proyecto**: [ver en YouTube](https://www.youtube.com/playlist?list=PLGQSYoAPO2ZFi2VI5RFmOJpDnTU3gPVx_)
 
 ---
 
-## 📊 Objetivo
+## Objetivo
 
 Explorar, analizar y visualizar datos relacionados con el mercado laboral, centrándonos en:
 
@@ -18,7 +18,7 @@ Explorar, analizar y visualizar datos relacionados con el mercado laboral, centr
 ---
 
 
-## ⚙️ Cómo usar este proyecto
+## Cómo usar este proyecto
 
 1. Clona el repositorio:
 
@@ -49,7 +49,7 @@ jupyter notebook
 
 ---
 
-## 🛠 Tecnologías usadas
+## Tecnologías usadas
 
 Python (Pandas, NumPy, Matplotlib)
 
@@ -61,7 +61,7 @@ Visualización interactiva (Tableau)
 
 ---
 
-## 🎥 Videos del proyecto
+## Videos del proyecto
 
 A continuación, la serie de videos en YouTube donde desarrollo paso a paso este proyecto de análisis de empleos del mercado:
 
@@ -77,12 +77,12 @@ A continuación, la serie de videos en YouTube donde desarrollo paso a paso este
 
 
 
-## ✍️ Canal de YouTube
+## Canal de YouTube
 [Aprende con JM](https://youtube.com/@aprendeconJM)
 
 ---
 
-## 📬 Contacto
+## Contacto
 ¿Tienes dudas o ideas? ¡Escríbeme por YouTube o abre un issue!
 
 
